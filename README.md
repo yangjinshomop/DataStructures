@@ -3,3 +3,4 @@
 [B树](https://github.com/yangjinshomop/DataStructures/issues/3)  
 [B*树](https://github.com/yangjinshomop/DataStructures/issues/4)  
 [B树,B+树,B*树 总结对比](https://github.com/yangjinshomop/DataStructures/issues/5)  
+[平衡二叉树（AVL树)](https://github.com/yangjinshomop/DataStructures/issues/5)  
